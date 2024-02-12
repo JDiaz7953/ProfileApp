@@ -1,0 +1,16 @@
+{
+  "fp8jKEsgf5PhnYQSU5rFlLILjyY2": {
+    "birthdate": "01/05/2004",
+    "color": "Green",
+    "image": "http://res.cloudinary.com/thunkablecloudinary123/image/upload/v1707763409/r8v4qkjipg4tobgg0hho.jpg",
+    "name": "Jake",
+    "race": "White"
+  },
+  "inCPrMSYWET7RuDsGOhbcQLvgHZ2": {
+    "birthdate": "01/05/2003",
+    "color": "Blue",
+    "image": "http://res.cloudinary.com/thunkablecloudinary123/image/upload/v1707762917/qt6snjnmnnnqcp4ovn1y.jpg",
+    "name": "Jay",
+    "race": "Spanish"
+  }
+}
